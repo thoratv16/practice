@@ -91,7 +91,7 @@ function subsciber(){
     var name ="good vaibs.."
     
     function display(){
-        alert(name);
+        console.log(name);
     }
     display();
 }
